@@ -30,7 +30,7 @@ Squared Error (MSE), Mean Absolute Percentage Error (MAPE) and percentage of cor
 compute for how many steps ahead the forecasting performance of the devoled model remains acceptable (in terms of MSE, MAPE 
 and percentage of correctly forecasted days).
 
-##Second part
+## Second part
 The second part of the preject consists in developing a fuzzy system, wich forecasts the daily values of the ISE100 index 
 based on previous values (i.e., the values of the day before) of (a subset of) the market indices selected as predictors in 
 the first part of the project.
